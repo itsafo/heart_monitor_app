@@ -4,7 +4,7 @@ heart monitor web application that detects whether a person has heart disease or
 
 
 #### Purpose
-+ A productionized ML web app for hepatitis mortality prediction
++ A productionized ML web app for heart mortality prediction
 
 
 #### Requirements
@@ -19,7 +19,7 @@ heart monitor web application that detects whether a person has heart disease or
 + Run this command `git clone https://github.com/itsafo/heart-monitor-app.git`
 + Go into the heart haven folder
 + Run `pip install -r requirements.txt` 
-+ Run `export FLASK_APP=hello.py`
++ Run `export FLASK_APP=app.py`
 + Run `flask run`
 
 #### Tech Stack
